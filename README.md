@@ -1,15 +1,18 @@
-# Getting Started with Create React App
+#Êm ê dersên xwe bi Kurmançî bidomînin..
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Repoya Reactê li vî lînkê de yî
 
-## Available Scripts
+https://github.com/facebook/create-react-app
 
-In the project directory, you can run:
+# Sazkirina reactê bi komîta li jê ve tê kirin
+  npx create-react-app (dosyeya we kîja be binivîse)
+
+  - piş vê komîtê daxastina dosye û pakêtên pêwist bîskekê dem digre.. 
+  - Gava ku daxistin bidavî bû, êdî hûn amedene bo Reactê!
 
 ### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+	Bi vê komîta han ve projeya we li server porta 3000 tê sixulandin. (http://localhost:3000)
+	Lê baldar bibin, divê hûn di hûndir klasorê de bibin ku we tê de projê destpêkir, gava ku we ev komît sixûland.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
