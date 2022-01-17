@@ -1,4 +1,4 @@
-#Êm ê dersên xwe bi Kurmançî bidomînin..
+# Êm ê dersên xwe bi Kurmançî bidomînin..
 
 # Repoya Reactê li vî lînkê de yî
 
